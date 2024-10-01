@@ -1,4 +1,4 @@
-## Current Main Projects
+# Current Main Projects
 - Hosting servers for a Minecraft community : [Horde-Of-Greg](https://status.horde-of-greg.com/)
 - Making an addon mod for [GregTechCEu](https://github.com/GregTechCEu) called [TaoTech](https://github.com/D-Alessian/TaoTech)
   
