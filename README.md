@@ -3,7 +3,7 @@
   
 # Languages I know
   
-[![Languages](https://skillicons.dev/icons?i=arduino,latex,ruby,css,html)](https://skillicons.dev)<br/>
+[![Languages](https://skillicons.dev/icons?i=arduino,latex,ruby,css,html,mysql)](https://skillicons.dev)<br/>
 
 # Languages I'm learning
   
@@ -11,7 +11,7 @@
 
 # Tools I'm using
   
-[![Tools](https://skillicons.dev/icons?i=idea,cloudflare,docker,figma,mysql,nodejs,rails,vscode)](https://skillicons.dev)<br/>
+[![Tools](https://skillicons.dev/icons?i=cloudflare,docker,figma,rails)](https://skillicons.dev)<br/>
 
 
 # Stats
