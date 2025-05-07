@@ -3,11 +3,11 @@
   
 # Languages I know
   
-[![Languages](https://skillicons.dev/icons?i=arduino,latex,ruby,css,html,mysql)](https://skillicons.dev)<br/>
+[![Languages](https://skillicons.dev/icons?i=arduino,latex,ruby,css,html,mysql,js)](https://skillicons.dev)<br/>
 
 # Languages I'm learning
   
-[![Learning](https://skillicons.dev/icons?i=js,java,php,py)](https://skillicons.dev)<br/>
+[![Learning](https://skillicons.dev/icons?i=java,php,py)](https://skillicons.dev)<br/>
 
 # Tools I'm using
   
