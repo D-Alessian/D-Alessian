@@ -3,7 +3,7 @@
   
 # Languages I know
   
-[![Languages](https://skillicons.dev/icons?i=ts,js,java,shell,ruby,css,html,ruby,mysql)](https://skillicons.dev)<br/>
+[![Languages](https://skillicons.dev/icons?i=ts,js,java,bash,ruby,css,html)](https://skillicons.dev)<br/>
 
 # Languages I'm learning
   
